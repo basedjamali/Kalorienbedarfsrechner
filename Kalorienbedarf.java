@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Main {
+public class Kalorienbedarf {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Willkommensgrüße
-        System.out.println("=== Willkommen bei HealthyEats! ===");
+        System.out.println("=== Willkommen bei HealthyEats, dem besten Kalorienbedarfsrechner! ===");
 
         // Eingabe des Namens
         System.out.println("Zum Start, bitte geben Sie ihren Namen:");
